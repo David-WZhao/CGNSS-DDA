@@ -1,4 +1,4 @@
-# CGNSS-DAA
+# CGNSS-DDA
 
 注意事项
 This is the code for an efficient negative sample selection framework for drug repurposing in the manuscript we are reviewing.
