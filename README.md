@@ -20,7 +20,7 @@ Note that the detailed prediction result (e.g., the prediction on specific sampl
 
 
 ### Instruction for three main scripts
-my_model_K_Means.py: the code to conduct the prediction model. 
+my_model_K_Means.py: the code to conduct the prediction model.  
 my_utils.py: the code to complete the loading and preprocessing the input data set.  
 con_sim_clu_cf2.py: the code to complete the negative sample selection process.
 
