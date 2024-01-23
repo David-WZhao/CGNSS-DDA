@@ -1,6 +1,6 @@
 # CGNSS-DDA
 
-This is the code for an efficient negative sample selection framework for drug repurposing in the manuscript we are reviewing.
+This is the source code for an efficient negative sample selection framework for drug repurposing in the manuscript we are reviewing.
 
 ### Requirement
 python 3.6  
