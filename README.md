@@ -11,7 +11,7 @@ scipy ==1.5.4
 
 
 ### Dataset
-The input data consist of five files, which are placed under the "my_dataset" dictionary with the corresponding default file names. 
+The input data consist of five files, which are placed under the "my_dataset" directory with the corresponding default file names. 
 Note that the procedure of data collection is described in our manuscript, and the original data is accessible upon request.
 
 ### Run the code
